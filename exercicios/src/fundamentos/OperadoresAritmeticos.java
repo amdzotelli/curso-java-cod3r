@@ -2,7 +2,7 @@ package fundamentos;
 
 import static java.lang.System.*;
 
-public class Aritmeticos {
+public class OperadoresAritmeticos {
 
     public static void main(String[] args) {
 
