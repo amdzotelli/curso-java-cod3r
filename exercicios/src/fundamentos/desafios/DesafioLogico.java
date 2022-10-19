@@ -1,4 +1,4 @@
-package fundamentos;
+package fundamentos.desafios;
 
 import static java.lang.System.out;
 

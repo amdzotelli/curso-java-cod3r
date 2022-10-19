@@ -1,8 +1,8 @@
-package fundamentos;
+package fundamentos.desafios;
 
 import static java.lang.System.*;
 
-public class ConverterTemperatura {
+public class DesafioConverterTemperatura {
 
     public static void main(String[] args) {
         final double AJUSTE = 32;
